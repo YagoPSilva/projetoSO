@@ -4,9 +4,9 @@ import mysql.connector
 app = Flask(__name__)
 
 db_config = {
-    'host': 'localhost',
+    'host': 'db',
     'user': 'root',
-    'password': 'dinossauro',
+    'password': '123',
     'database': 'soprojeto'
 }
 
